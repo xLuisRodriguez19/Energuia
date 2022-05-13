@@ -3,6 +3,7 @@
 
 TECNOLOGIAS NECESARIAS.
 -MySQL (usuario 'root' y contraseña 'password')
+
 -Python
 
 
