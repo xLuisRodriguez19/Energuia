@@ -11,6 +11,7 @@ PARA INSTALAR LA BD.
 
 -Abrir MySQL Workbench, crear el schema con el nombre 'energuia', entonces abrir el archivo sql con el nombre energuia.sql 
 en MySQL Workbench y ejecutarlo
+	
 	NOTA: para poder ingresar sesion en la pagina web, deberá registrar un Usuario en la base de datos 'energuia' 
 		en la tabla 'usuario' con el tipo '3' (Administrador).
 
